@@ -1,1 +1,1 @@
-First action file for postgres workflows
+First action file for postgresql server workflows
